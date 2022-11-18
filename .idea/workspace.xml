@@ -4,11 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6f6d4110-5cbd-4072-9aac-2b8228cc0692" name="变更" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="6f6d4110-5cbd-4072-9aac-2b8228cc0692" name="变更" comment="denglu">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yeb-server/src/main/java/com/xxx/server/pojo/Admin.java" beforeDir="false" afterPath="$PROJECT_DIR$/yeb-server/src/main/java/com/xxx/server/pojo/Admin.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yeb-server/src/main/java/com/xxx/server/pojo/RespBean.java" beforeDir="false" afterPath="$PROJECT_DIR$/yeb-server/src/main/java/com/xxx/server/pojo/RespBean.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -172,8 +169,16 @@
       <workItem from="1668732098537" duration="3781000" />
       <workItem from="1668747781298" duration="111000" />
       <workItem from="1668747918273" duration="325000" />
-      <workItem from="1668748254109" duration="10409000" />
+      <workItem from="1668748254109" duration="11507000" />
     </task>
+    <task id="LOCAL-00001" summary="denglu">
+      <created>1668761756490</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1668761756490</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -189,6 +194,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="denglu" />
+    <option name="LAST_COMMIT_MESSAGE" value="denglu" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
